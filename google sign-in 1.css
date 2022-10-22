@@ -1,0 +1,119 @@
+body{
+	margin: 0px;
+	font-family: "Arial";
+}
+
+.form_layout{
+	width:  450px;
+	height: 510px;
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 130px;
+	text-align: center;
+}
+
+.logo{
+	width: 80px;
+	margin-top: 40px;
+}
+
+h2{
+	font-size: 27px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	font-family: "Verdana";
+	font-weight: 300;
+}
+
+h3{
+	font-size: 17px;
+	font-weight: 300;
+}
+
+.input_form{
+	margin-top: 20px;
+	width: 363px;
+	height: 55px;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+}
+
+.input_form:focus{
+	outline: 2px solid #3489eb;
+	font-size: 15px;
+	padding: 15px;
+}
+
+.key_objects{
+	font-size: 14px;
+	text-align: left;
+	margin-left: 42px;
+	margin-top: 5px;
+	color: #3489eb;
+}
+
+.not_your_computer{
+	margin-top: 40px;
+	margin-left: -40px;
+	font-size: 13px;
+	color: grey;
+}
+
+.learn_more{
+	color: #3489eb;
+	font-size: 14px;
+	text-align: left;
+	margin-left: 40px;
+}
+
+.create_account{
+	color: #3489eb;
+	font-size: 14px;
+	text-align: left;
+	margin-left: 40px;
+	margin-top: 50px;
+}
+
+.send_button{
+	float: right;
+	color: white;
+	margin-right: 50px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 26px;
+	padding-right: 26px;
+	background: #1d6ebf;
+	border: 0px;
+	border-radius: 5px;
+}
+
+.key_items{
+	width:  530px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.items_details{
+	margin-top: 10px;
+	font-size: 14px;
+	color: #575757;
+	list-style: none;
+	text-align: left;
+}
+
+ul{
+	float: left;
+}
+
+.listf1{
+	float: right;
+	margin-right: 40px;
+}
+
+.listf2{
+	float: right;
+}
